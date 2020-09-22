@@ -1,1 +1,0 @@
-# vanillajs-catch-them-all
